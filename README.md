@@ -10,7 +10,6 @@
 
 I'm an Information Technology student and software developer based in Philippines. I specialize in full stack development and designing modern system.
 
-- 🏢 Working at **** in **Philippines**
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
