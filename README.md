@@ -8,7 +8,7 @@
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
-I'm an Information Technology student and software developer based in Philippines. I specialize in full stack development and designing modern system.
+Hi, I'm Saul Goodman. Did you know that you have rights? The Constitution says you do. And so do I. I believe that until proven guilty, every man, woman, and child in this country is innocent. And that's why I fight for you, Albuquerque! Better call Saul!
 
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
