@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Gio%20Niel%20Yecyec&fontSize=50&fontColor=fff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,50:166534,100:4ade80&height=200&section=header&text=Gio%20Niel%20Yecyec&fontSize=50&fontColor=fff&animation=twinkling)
 
 <div align="center">
 
@@ -66,8 +66,6 @@ Coming soon...
 
 </div>
 
-
-
 ---
 
 ### Connect
@@ -78,4 +76,4 @@ Coming soon...
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,50:166534,100:4ade80&height=100&section=footer)
