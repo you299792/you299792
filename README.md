@@ -16,11 +16,24 @@ Coming soon...
 
 ### Details
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - 🌍 Based in: `Philippines`
 - 💼 Currently: `Learning`
-- 🧠 Learning: `TypeScript]`
+- 🧠 Learning: `TypeScript`
 - 🤝 Open to: `Collaborations & freelance`
-- ⚡ Fun fact: `[I am burdened with glorious purpose]`
+- ⚡ Fun fact: `I am burdened with glorious purpose`
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://64.media.tumblr.com/f2631d994b32d4efa1ac8549192aaee2/9611cfe6fb6ba50d-f4/s540x810/b41a2e7ec508bb3ec49c8ef2c5e2c60cac8382c7.gif" width="220" alt="Purpose" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,9 +66,7 @@ Coming soon...
 
 </div>
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/f2631d994b32d4efa1ac8549192aaee2/9611cfe6fb6ba50d-f4/s540x810/b41a2e7ec508bb3ec49c8ef2c5e2c60cac8382c7.gif" width="180" alt="this is fine gif" />
-</div>
+
 
 ---
 
