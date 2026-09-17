@@ -18,7 +18,7 @@ Coming soon...
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="45%">
 
 - 🌍 Based in: `Philippines`
 - 💼 Currently: `Learning`
@@ -27,9 +27,9 @@ Coming soon...
 - ⚡ Fun fact: `I am burdened with glorious purpose`
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="55%" align="center">
 
-<img src="https://64.media.tumblr.com/f2631d994b32d4efa1ac8549192aaee2/9611cfe6fb6ba50d-f4/s540x810/b41a2e7ec508bb3ec49c8ef2c5e2c60cac8382c7.gif" width="220" alt="Purpose" />
+<img src="https://64.media.tumblr.com/f2631d994b32d4efa1ac8549192aaee2/9611cfe6fb6ba50d-f4/s540x810/b41a2e7ec508bb3ec49c8ef2c5e2c60cac8382c7.gif" width="450" alt="Purpose" />
 
 </td>
 </tr>
