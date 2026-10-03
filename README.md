@@ -25,7 +25,7 @@ Coming soon....
 - 💼 Currently: `Learning`
 - 🧠 Learning: `TypeScript`
 - 🤝 Open to: `Collaborations & freelance`
-- ⚡ Fun fact: `I am burdened with glorious purpose`
+
 
 </td>
 <td valign="top" width="55%" align="center">
