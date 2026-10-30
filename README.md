@@ -46,48 +46,22 @@
 
 ### Tech Stack
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="140"><b>Languages</b></td>
-<td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</td>
+<td><img src="https://skillicons.dev/icons?i=py,java,js,php&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td>
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-333?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Database</b></td>
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-333?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-</td>
+<td><img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" /></td>
 </tr>
 </table>
 
