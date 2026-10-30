@@ -44,7 +44,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3b2e,50:166534,100:4ade80&height=2" width="100%" />
 
-### Tech Stack
+<div align="center">
 
 <table>
 <tr>
