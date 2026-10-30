@@ -101,8 +101,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=you299792&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=you299792&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=you299792&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" height="165" alt="Top languages" />
+
 
 </div>
 
