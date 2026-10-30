@@ -73,10 +73,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=you299792&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)](https://git.io/streak-stats)
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=you299792&hide_border=true&background=135,0d1117,0d3b2e,14532d&ring=22C55E&fire=BBF7D0&currStreakNum=4ADE80&sideNums=4ADE80&currStreakLabel=86EFAC&sideLabels=86EFAC&dates=8B949E&stroke=22C55E)](https://git.io/streak-stats)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3b2e,50:166534,100:4ade80&height=2" width="100%" />
