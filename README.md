@@ -38,7 +38,7 @@
 </td>
 <td valign="middle" width="55%" align="center">
 
-<img src="https://64.media.tumblr.com/f2631d994b32d4efa1ac8549192aaee2/9611cfe6fb6ba50d-f4/s540x810/b41a2e7ec508bb3ec49c8ef2c5e2c60cac8382c7.gif" width="400" alt="Coding animation" />
+<img src="https://64.media.tumblr.com/cae8c9af3cccf6ee63b7450ba0d4295e/3c5cd0a36f0a9b03-20/s540x810/1edf9094ebdda245abc04574bbe6e3f2072220e8.gif" width="400" alt="Coding animation" />
 
 </td>
 </tr>
